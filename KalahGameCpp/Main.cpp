@@ -1,9 +1,9 @@
 //
-//  main.cpp
+//  Main.cpp
 //  KalahGame
 //
-//  Created by wei24 on 4/1/19.
-//  Copyright © 2019 wei24. All rights reserved.
+//  Created by Xin Wei on 4/1/19.
+//  Copyright © 2019 Xin Wei. All rights reserved.
 //
 
 #include <iostream>
